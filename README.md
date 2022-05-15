@@ -40,4 +40,5 @@ Starters! No need to worry🙌
 
 
 ---
-🔍 The preperation for Show and Tell [Referenced](https://github.com/microsoft/workshop-library/blob/main/full/build-resume-website/4-creating-website.md) here
+🔍 The preparation for this Show and Tell referenced the [workshop library](https://github.com/microsoft/workshop-library/blob/main/full/build-resume-website/4-creating-website.md) by Microsoft.  
+👉 Microsoft Open Source [Code of Conduct](https://github.com/microsoft/workshop-library/blob/main/CODE_OF_CONDUCT.md)
