@@ -1,4 +1,7 @@
-# Basic HTML/CSS
+# Building an Online Resume Using Basic HTML/CSS
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/59790777/168458686-1b45426b-220c-4a88-9d33-2fbd6e70ddf3.png" alt="sample" width="500"/>
+</p>
 Starters! No need to worry🙌  
 
 📌 Use **Github.dev** so you don't have to download any coding tools  
