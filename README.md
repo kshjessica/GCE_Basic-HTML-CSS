@@ -5,7 +5,7 @@
 Starters! No need to worry 🙌  
 
 📌 Use **Github.dev** so you don't have to download any coding tools  
-📌 Easily copy and paste code from **Github Gist**
+📌 Easily copy and paste code from **Github Gist**  
 📌 Get used to Github by reading **Wiki**, **commiting** and **creating a website**
 
 ## 😀 What you will learn
