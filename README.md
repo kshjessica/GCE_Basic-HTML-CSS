@@ -4,7 +4,7 @@ Starters! No need to worry🙌
 📌 Use **Github.dev** so you don't have to download any coding tools  
 📌 Easily copy and paste code from **Github Gist**
 
-## 😀 What you will learn  
+## 😀 [What you will learn](https://github.com/kshjessica/GCE_Basic-HTML-CSS/wiki)  
 ### Basics of HTML and CSS  
 - What HTML is
 - HTML tags and structures
