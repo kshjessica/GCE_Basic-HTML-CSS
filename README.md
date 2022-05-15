@@ -11,13 +11,13 @@ Starters! No need to worry 🙌
 ## 😀 What you will learn
 📕 [Link to notes](https://github.com/kshjessica/GCE_Basic-HTML-CSS/wiki) in **Github Wiki**
 
-### Basics of HTML and CSS  
+### 1️⃣ Basics of HTML and CSS  
 - What HTML is
 - HTML tags and structures
 - What CSS is
 - CSS selectots and styling
  
-### Make an online resume  
+### 2️⃣ Make an online resume  
 - Hosting a resume website
 
 ## 🧐 Before We Get Started
